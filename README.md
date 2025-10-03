@@ -4,7 +4,7 @@
 Python3
 
 ## Packages:
-pyvcf
+pyvcf3
 
 ## Setup Project
 

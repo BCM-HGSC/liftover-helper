@@ -10,7 +10,7 @@ setuptools.setup(
     description='Pre and post processing of VCF files for liftover.',
     packages=['scripts'],
     install_requires=[
-        "pyvcf == 0.6.8",
+        "pyvcf3 == 1.0.4",
     ],
     python_requires='>=3.6',
 )
